@@ -1,0 +1,4 @@
+D:\Project\Terry\TestFile\TestConsole\bin\Debug\TestConsole.exe
+D:\Project\Terry\TestFile\TestConsole\bin\Debug\TestConsole.pdb
+D:\Project\Terry\TestFile\TestConsole\obj\x86\Debug\TestConsole.exe
+D:\Project\Terry\TestFile\TestConsole\obj\x86\Debug\TestConsole.pdb
