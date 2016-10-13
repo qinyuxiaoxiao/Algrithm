@@ -52,21 +52,21 @@ namespace Algrithm.LeetCode
             return ways.Last();
         }
 
-        static void Main(string[] args)
-        {
-            const string CODE1 = "12";
-            const string CODE2 = "12213";
-            const string CODE3 = "14545";
-            const string CODE4 = "20101020";
-            const string CODE5 = "227";
-            const string CODE6 = "226";
-            Console.WriteLine(string.Format("Ways of '{0}' is: {1}", CODE1, Calc(CODE1)));
-            Console.WriteLine(string.Format("Ways of '{0}' is: {1}", CODE2, Calc(CODE2)));
-            Console.WriteLine(string.Format("Ways of '{0}' is: {1}", CODE3, Calc(CODE3)));
-            Console.WriteLine(string.Format("Ways of '{0}' is: {1}", CODE4, Calc(CODE4)));
-            Console.WriteLine(string.Format("Ways of '{0}' is: {1}", CODE5, Calc(CODE5)));
-            Console.WriteLine(string.Format("Ways of '{0}' is: {1}", CODE6, Calc(CODE6)));
-        }
+        //static void Main(string[] args)
+        //{
+        //    const string CODE1 = "12";
+        //    const string CODE2 = "12213";
+        //    const string CODE3 = "14545";
+        //    const string CODE4 = "20101020";
+        //    const string CODE5 = "227";
+        //    const string CODE6 = "226";
+        //    Console.WriteLine(string.Format("Ways of '{0}' is: {1}", CODE1, Calc(CODE1)));
+        //    Console.WriteLine(string.Format("Ways of '{0}' is: {1}", CODE2, Calc(CODE2)));
+        //    Console.WriteLine(string.Format("Ways of '{0}' is: {1}", CODE3, Calc(CODE3)));
+        //    Console.WriteLine(string.Format("Ways of '{0}' is: {1}", CODE4, Calc(CODE4)));
+        //    Console.WriteLine(string.Format("Ways of '{0}' is: {1}", CODE5, Calc(CODE5)));
+        //    Console.WriteLine(string.Format("Ways of '{0}' is: {1}", CODE6, Calc(CODE6)));
+        //}
 
     }
 }

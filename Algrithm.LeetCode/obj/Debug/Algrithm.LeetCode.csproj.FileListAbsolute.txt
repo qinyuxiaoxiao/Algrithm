@@ -7,3 +7,9 @@ E:\Doc.Terry\Project\TerryAlgrithm\Algrithm.LeetCode\obj\Debug\Algrithm.LeetCode
 F:\Service\Git\TerryAlgrithm\Algrithm.LeetCode\bin\Debug\Algrithm.LeetCode.exe.config
 F:\Service\Git\TerryAlgrithm\Algrithm.LeetCode\obj\Debug\Algrithm.LeetCode.exe
 F:\Service\Git\TerryAlgrithm\Algrithm.LeetCode\obj\Debug\Algrithm.LeetCode.pdb
+D:\Git\Terry\Algrithm\Algrithm.LeetCode\obj\Debug\Algrithm.LeetCode.csprojResolveAssemblyReference.cache
+D:\Git\Terry\Algrithm\Algrithm.LeetCode\obj\Debug\Algrithm.LeetCode.exe
+D:\Git\Terry\Algrithm\Algrithm.LeetCode\obj\Debug\Algrithm.LeetCode.pdb
+D:\Git\Terry\Algrithm\Algrithm.LeetCode\bin\Debug\Algrithm.LeetCode.exe.config
+D:\Git\Terry\Algrithm\Algrithm.LeetCode\bin\Debug\Algrithm.LeetCode.exe
+D:\Git\Terry\Algrithm\Algrithm.LeetCode\bin\Debug\Algrithm.LeetCode.pdb

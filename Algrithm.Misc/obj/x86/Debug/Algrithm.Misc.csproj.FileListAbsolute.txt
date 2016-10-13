@@ -1,0 +1,2 @@
+D:\Git\Terry\Algrithm\Algrithm.Misc\obj\x86\Debug\Algrithm.exe
+D:\Git\Terry\Algrithm\Algrithm.Misc\obj\x86\Debug\Algrithm.pdb

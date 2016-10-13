@@ -9,9 +9,10 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Algrithm.LeetCode</RootNamespace>
     <AssemblyName>Algrithm.LeetCode</AssemblyName>
-    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -44,6 +45,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="91. Decode Ways.cs" />
+    <Compile Include="BinaryTree\95. Unique Binary Search Trees II.cs" />
+    <Compile Include="BinaryTree\Traversal\In-orderTraversal.cs" />
+    <Compile Include="BinaryTree\_Tree\BinaryTree.cs" />
+    <Compile Include="BinaryTree\_Tree\TreeNode.cs" />
+    <Compile Include="Combination.cs" />
+    <Compile Include="Histogram.cs" />
+    <Compile Include="Histogram2.cs" />
+    <Compile Include="SortColor.cs" />
+    <Compile Include="SortedMerge.cs" />
+    <Compile Include="StringSearch.cs" />
+    <Compile Include="Subset.cs" />
     <Compile Include="_Template\Template.cs" />
     <Compile Include="89. Gray Code.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
