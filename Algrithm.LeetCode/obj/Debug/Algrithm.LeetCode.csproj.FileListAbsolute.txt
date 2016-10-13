@@ -13,3 +13,9 @@ D:\Git\Terry\Algrithm\Algrithm.LeetCode\obj\Debug\Algrithm.LeetCode.pdb
 D:\Git\Terry\Algrithm\Algrithm.LeetCode\bin\Debug\Algrithm.LeetCode.exe.config
 D:\Git\Terry\Algrithm\Algrithm.LeetCode\bin\Debug\Algrithm.LeetCode.exe
 D:\Git\Terry\Algrithm\Algrithm.LeetCode\bin\Debug\Algrithm.LeetCode.pdb
+F:\Service\Git\Algrithm\Algrithm.LeetCode\bin\Debug\Algrithm.LeetCode.exe.config
+F:\Service\Git\Algrithm\Algrithm.LeetCode\bin\Debug\Algrithm.LeetCode.exe
+F:\Service\Git\Algrithm\Algrithm.LeetCode\bin\Debug\Algrithm.LeetCode.pdb
+F:\Service\Git\Algrithm\Algrithm.LeetCode\obj\Debug\Algrithm.LeetCode.csprojResolveAssemblyReference.cache
+F:\Service\Git\Algrithm\Algrithm.LeetCode\obj\Debug\Algrithm.LeetCode.exe
+F:\Service\Git\Algrithm\Algrithm.LeetCode\obj\Debug\Algrithm.LeetCode.pdb

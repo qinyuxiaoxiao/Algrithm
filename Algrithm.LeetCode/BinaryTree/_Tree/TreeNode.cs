@@ -37,7 +37,7 @@ namespace CodeTest
             set;
         }
 
-        public string GetTreeStructure()
+        public string GetBSTTreeStructure()
         {
             int treeMaxDepth = (int)Math.Log(this.TreeNodeCount, 2) + 1;
             int bottomNodeCount = (int)Math.Pow(2, treeMaxDepth - 1);

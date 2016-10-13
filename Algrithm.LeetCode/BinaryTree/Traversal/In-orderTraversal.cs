@@ -36,7 +36,7 @@ namespace CodeTest
         //{
         //    TreeNode topNode = BinaryTree.BuildBalanceTree(20);
         //    List<TreeNode> traversalNodes = Traverse(topNode);
-        //    Console.WriteLine(topNode.GetTreeStructure());
+        //    Console.WriteLine(topNode.GetBSTTreeStructure());
         //    Console.WriteLine(string.Join(", ", traversalNodes.Select(n => n.Value)));
         //}
     }

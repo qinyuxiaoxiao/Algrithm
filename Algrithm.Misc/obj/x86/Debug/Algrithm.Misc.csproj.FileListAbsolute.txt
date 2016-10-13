@@ -1,2 +1,7 @@
 D:\Git\Terry\Algrithm\Algrithm.Misc\obj\x86\Debug\Algrithm.exe
 D:\Git\Terry\Algrithm\Algrithm.Misc\obj\x86\Debug\Algrithm.pdb
+F:\Service\Git\Algrithm\Algrithm.Misc\bin\Debug\Algrithm.exe
+F:\Service\Git\Algrithm\Algrithm.Misc\bin\Debug\Algrithm.pdb
+F:\Service\Git\Algrithm\Algrithm.Misc\obj\x86\Debug\Algrithm.Misc.csprojResolveAssemblyReference.cache
+F:\Service\Git\Algrithm\Algrithm.Misc\obj\x86\Debug\Algrithm.exe
+F:\Service\Git\Algrithm\Algrithm.Misc\obj\x86\Debug\Algrithm.pdb
