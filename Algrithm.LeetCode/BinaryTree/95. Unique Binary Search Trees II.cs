@@ -16,9 +16,10 @@ namespace Algrithm.LeetCode
     class UniqueBinarySearchTreesII
     {
         /// <summary>
-        /// 比较考验二叉树搜索的方方面面，该函数返回基于start和end之间的数字能够创造出的所有的树，即返回所有创造出来的树集合的顶节点集合
+        /// 二叉搜索树是非常特别的树，对于其中的任意一个节点，其左子树的所有节点都比该节点小，右子树的所有节点都比该节点大，左、右子树的任意节点也符合该条件
+        /// 该题非常考验二叉搜索树的方方面面，该函数返回基于start和end之间的数字能够创造出的所有的树，即返回所有创造出来的树集合的顶节点集合
         /// 关键突破点： 
-        /// 1. 分治法，从start和end之间选取某个数字作为父节点，小于该数字的所有左边数字构成左子数，大于该数字的所有右边数字构成右子树，使用相同的步骤来构建左子树和右子树
+        /// 1. 分治法，从start和end之间选取某个数字作为父节点，小于该数字的所有左边数字构成左子树，大于该数字的所有右边数字构成右子树，使用相同的步骤来构建左子树和右子树
         /// 2. 先产生左、右子树所有各自可能的集合，再将左、右子树各自可能的子树相互组合搭配以创建新的父节点
         /// </summary>
         /// <param name="start"></param>
@@ -54,17 +55,17 @@ namespace Algrithm.LeetCode
             return allTrees;
         }
 
-        static void Main(string[] args)
-        {
-            const int N = 3;            
-            List<TreeNode> allTrees = BuildBST(1, N);
+        //static void Main(string[] args)
+        //{
+        //    const int N = 3;
+        //    List<TreeNode> allTrees = BuildBST(1, N);
 
-            for (int i = 0; i < allTrees.Count; i++)
-            {
-                var breadthFirstTraversal = TraverseBreadthFirst(allTrees[i]);
-                Console.WriteLine(string.Join(", ", breadthFirstTraversal));
-            }
-        }
+        //    for (int i = 0; i < allTrees.Count; i++)
+        //    {
+        //        var breadthFirstTraversal = TraverseBreadthFirst(allTrees[i]);
+        //        Console.WriteLine(string.Join(", ", breadthFirstTraversal));
+        //    }
+        //}
 
         static List<string> TraverseBreadthFirst(TreeNode topNode)
         {
