@@ -36,11 +36,11 @@ namespace Algrithm.LeetCode
             return counts[n];
         }
 
-        static void Main(string[] args)
-        {
-            const int N = 3;
+        //static void Main(string[] args)
+        //{
+        //    const int N = 3;
 
-            Console.WriteLine(string.Format("Total unique BSTs count of numbers 1 - {0}: {1}", N, Calc(N)));
-        }
+        //    Console.WriteLine(string.Format("Total unique BSTs count of numbers 1 - {0}: {1}", N, Calc(N)));
+        //}
     }
 }
