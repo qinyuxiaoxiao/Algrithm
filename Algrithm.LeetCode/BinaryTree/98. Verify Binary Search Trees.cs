@@ -55,13 +55,13 @@ namespace Algrithm.LeetCode
             return IsBST(node.Right, ref maxValue);
         }
 
-        static void Main(string[] args)
-        {
-            TreeNode topNode = BuildBST();
-            int maxValue = int.MinValue;
-            Console.WriteLine("Is BST: " + IsBST(topNode, ref maxValue));
-            //Console.WriteLine("Is BST: " + IsBST_NonRecursive(topNode));
-        }
+        //static void Main(string[] args)
+        //{
+        //    TreeNode topNode = BuildBST();
+        //    int maxValue = int.MinValue;
+        //    Console.WriteLine("Is BST: " + IsBST(topNode, ref maxValue));
+        //    //Console.WriteLine("Is BST: " + IsBST_NonRecursive(topNode));
+        //}
 
         /// <summary>
         /// 测试用：构建BST，按照In-order Traversal中序遍历的方式自底向上来创建BST
