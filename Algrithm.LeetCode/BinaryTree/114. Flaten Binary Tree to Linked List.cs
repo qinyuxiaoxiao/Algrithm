@@ -74,13 +74,13 @@ namespace Algrithm.LeetCode
             }
         }
 
-        static void Main(string[] args)
-        {
-            TreeNode topNode = BuildTree();
-            Flaten(topNode);
-            PrintTree(topNode);
-            Console.WriteLine();
-        }
+        //static void Main(string[] args)
+        //{
+        //    TreeNode topNode = BuildTree();
+        //    Flaten(topNode);
+        //    PrintTree(topNode);
+        //    Console.WriteLine();
+        //}
 
 
         /// <summary>
