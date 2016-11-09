@@ -62,6 +62,7 @@
     <Compile Include="Subset.cs" />
     <Compile Include="97. Interleaving String .cs" />
     <Compile Include="120. Triangle.cs" />
+    <Compile Include="122. Best Time to Buy and Sell Stock II.cs" />
     <Compile Include="_Template\Template.cs" />
     <Compile Include="89. Gray Code.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
