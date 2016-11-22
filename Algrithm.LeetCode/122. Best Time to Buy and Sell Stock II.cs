@@ -32,9 +32,9 @@ namespace Algrithm.LeetCode
             return profit;
         }
 
-        static void Main(string[] args)
-        {
-            Console.WriteLine();
-        }
+        //static void Main(string[] args)
+        //{
+        //    Console.WriteLine();
+        //}
     }
 }

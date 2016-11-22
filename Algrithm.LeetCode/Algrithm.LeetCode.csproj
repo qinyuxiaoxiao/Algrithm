@@ -44,6 +44,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="121. Best Time to Buy and Sell Stock I.cs" />
+    <Compile Include="123. Best Time to Buy and Sell Stock III.cs" />
     <Compile Include="91. Decode Ways.cs" />
     <Compile Include="BinaryTree\96. Unique Binary Search Trees.cs" />
     <Compile Include="BinaryTree\95. Unique Binary Search Trees II.cs" />
