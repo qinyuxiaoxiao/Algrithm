@@ -49,9 +49,9 @@ namespace Algrithm.LeetCode
             return Math.Max(profit2Sell, profit1Sell);
         }
 
-        static void Main(string[] args)
-        {
-            Console.WriteLine();
-        }
+        //static void Main(string[] args)
+        //{
+        //    Console.WriteLine();
+        //}
     }
 }
