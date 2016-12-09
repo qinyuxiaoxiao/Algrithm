@@ -79,12 +79,12 @@ namespace Algrithm.LeetCode
             return 0;
         }
 
-        static void Main(string[] args)
-        {
-            List<string> words = new List<string> { "hot", "dot", "dog", "lot", "log" };
-            int shortestLength = GetShortestLength(words, "hit", "cog");
-            Console.WriteLine("The shortest length is: " + shortestLength);
-        }
+        //static void Main(string[] args)
+        //{
+        //    List<string> words = new List<string> { "hot", "dot", "dog", "lot", "log" };
+        //    int shortestLength = GetShortestLength(words, "hit", "cog");
+        //    Console.WriteLine("The shortest length is: " + shortestLength);
+        //}
 
     }
 }

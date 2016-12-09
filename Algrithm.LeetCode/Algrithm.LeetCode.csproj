@@ -66,6 +66,7 @@
     <Compile Include="120. Triangle.cs" />
     <Compile Include="122. Best Time to Buy and Sell Stock II.cs" />
     <Compile Include="127. Word Ladder.cs" />
+    <Compile Include="394. Decode String.cs" />
     <Compile Include="_Template\Template.cs" />
     <Compile Include="89. Gray Code.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
