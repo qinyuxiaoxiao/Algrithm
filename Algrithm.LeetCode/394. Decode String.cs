@@ -20,7 +20,8 @@ namespace Algrithm.LeetCode
     */
     /// <summary>
     /// 利用栈，注意把字符组合成一个数字或字符串之后再入栈，而不是单纯的一个一个字符入栈，否则会增加复杂度
-    /// 所以这里用到了Stack<string>而不是Stack<char>
+    /// 所以这里用到了Stack<string>而不是Stack<char>，
+    /// 参考答案用到两个Stack，而我是把number转换为string存入Stack<string>, 因此没有引入额外的Stack<int>
     /// </summary>
     class DecodeString
     {
